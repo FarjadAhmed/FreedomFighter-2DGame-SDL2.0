@@ -1,0 +1,17 @@
+10 = Player
+21 = Enemy_Easy
+22 = Enemy_Medium
+23 = Enemy_Hard
+31 = Turret
+33 = Turret_Hard
+41 = Player_Bullet
+42 = Enemy_Bullet
+43 = Turret_Straight_Missile
+44 = Turret_Homing_Missile
+48 = Straight_Missile
+49 = Homing_Missile
+50 = Power_Up_Homing_Missile
+51 = Power_Up_Straight_Missile
+52 = Health Power Up
+70 = Boss
+71 = Boss_Weapon

@@ -1,0 +1,196 @@
+﻿  Background.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\background.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Boss.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\boss.cpp(69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\boss.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\boss.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Boss_Weapon.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\boss_weapon.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Button.cpp
+  Character.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\character.cpp(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Enemy_Bullet.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_bullet.cpp(65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Enemy_Easy.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_easy.cpp(69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_easy.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_easy.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_easy.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Enemy_Hard.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_hard.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_hard.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_hard.cpp(67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_hard.cpp(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Enemy_Medium.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_medium.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_medium.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_medium.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\enemy_medium.cpp(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Explosion.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\explosion.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  File_IO.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\file_io.cpp(147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  FreedomFighter.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Game_Menu.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(188): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(189): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(190): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(191): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(196): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(203): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(204): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(194): warning C4101: 'h_half': unreferenced local variable
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(194): warning C4101: 'w_half': unreferenced local variable
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(308): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(309): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(310): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(311): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(312): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(315): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(322): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(323): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(325): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(314): warning C4101: 'h_half': unreferenced local variable
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_menu.cpp(314): warning C4101: 'w_half': unreferenced local variable
+  Game_Play.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(290): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(305): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(343): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(412): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(414): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(416): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(418): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\game_play.cpp(423): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game_Splash_Screen.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  health_up.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\health_up.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LTexture.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\ltexture.cpp(104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\ltexture.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\player.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\player.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player_Bullet.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\player_bullet.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Player_Homing_Missile.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\player_homing_missile.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Player_Straight_Missile.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\player_straight_missile.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Power_Up_Homing_Missile.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\power_up_homing_missile.cpp(51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Power_Up_Straight_Missile.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\power_up_straight_missile.cpp(50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Queue.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(378): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(392): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(393): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(408): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(421): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(422): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(434): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(437): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(440): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(444): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Screens.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\screens.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Splash_Screen.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\splash_screen.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\splash_screen.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Turret.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret.cpp(65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret.cpp(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret.cpp(67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret.cpp(71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Turret_Hard.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_hard.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Turret_Homing_Missile.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_homing_missile.cpp(122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Turret_Straight_Missile.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\turret_straight_missile.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Unit.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.cpp(54): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\unit.cpp(58): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Word.cpp
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\word.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\word.cpp(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(486): warning C4715: 'Queue::check': not all control paths return a value
+e:\mygit\freedomfighter-2dgame-sdl2.0\code_windows_visualstudio2017\freedomfighter\freedomfighter\queue.cpp(505): warning C4715: 'Queue::Boss_Alive': not all control paths return a value
+  FreedomFighter.vcxproj -> E:\myGit\FreedomFighter-2DGame-SDL2.0\Code_Windows_VisualStudio2017\FreedomFighter\Debug\FreedomFighter.exe
