@@ -7,20 +7,20 @@ The following build properties need to be set in order to compile the code. Note
 ### Go to Project &rarr Project Properties
 * Select C/C++ &rarr General &rarr set property "additional include directories"
   * Add the following paths:
-    * ..\..\SDL2_mixer\include
-    * ..\..\SDL2_image\include
-    * ..\..\SDL2\include
+    * "..\..\SDL2_mixer\include"
+    * "..\..\SDL2_image\include"
+    * "..\..\SDL2\include"
 * Select C/C++ &rarr Language &rarr set property "Conformance mode" to **No**
 * Select C/C++ &rarr Precompiled Headers &rarr set property "Precompiled Header" to **Not Using Precompiled Headers**
 * Select Linker &rarr General &rarr set property "Additional Library Dependencies"
   * Add the following paths. If using platform Win32:
-    * ..\..\SDL2_mixer\lib\x86
-    * ..\..\SDL2_image\lib\x86
-    * ..\..\SDL2\lib\x86
+    * "..\..\SDL2_mixer\lib\x86"
+    * "..\..\SDL2_image\lib\x86"
+    * "..\..\SDL2\lib\x86"
   * Add the following paths. If using platform x64:
-    * ..\..\SDL2_mixer\lib\x64
-    * ..\..\SDL2_image\lib\x64
-    * ..\..\SDL2\lib\x64
+    * "..\..\SDL2_mixer\lib\x64"
+    * "..\..\SDL2_image\lib\x64"
+    * "..\..\SDL2\lib\x64"
 * Select Linker &rarr Input &rarr set property "Additional Dependencies"
   * Add the following names:
     * SDL2.lib
