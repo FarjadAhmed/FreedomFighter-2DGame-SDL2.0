@@ -2,7 +2,7 @@
 A top down shooting game in C++ using SDL2.0 library. This project was done as part of the "Object-Oriented Programming and Design Methodologies" course during the third semester of the undergraduate program at Habib University.
 
 ## Project Build Properties
-The following build properties need to be set in order to compile the code. Note that the code was originally built in VS2015 and hence some additional properties need to be set to ensure compatibility with VS2017. These properties apply to both configurations (Debug and Release). Any differences in terms of platform specific requirements (Win32 vs x64) are mentioned below.
+The following build properties need to be set in order to compile the code. Note, that the code was originally built in VS2015 and hence some additional properties need to be set to ensure compatibility with VS2017. These properties apply to both configurations (Debug and Release). Any differences in terms of platform specific requirements (Win32 vs x64) are mentioned below.
 
 ### Go to Project → Project Properties
 * Select C/C++ → General → set property "additional include directories"
